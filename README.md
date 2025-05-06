@@ -77,9 +77,12 @@
 
 ## 🔥 GitHub Streak Stats
 
+## 🔥 GitHub Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanruhullah&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=farhanruhullah&theme=radical&hide_border=true" />
 </p>
+
 ---
 > 🚀 “Turn data into decisions, and decisions into impact.”
 
