@@ -60,6 +60,27 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanruhullah&theme=radical&no-bg=true&margin-w=15" />
+</p>
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanruhullah&theme=github-compact&area=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanruhullah&theme=radical&hide_border=false" />
+</p>
+---
 > 🚀 “Turn data into decisions, and decisions into impact.”
 
 
