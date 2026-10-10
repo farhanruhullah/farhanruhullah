@@ -1,132 +1,75 @@
 # 👋 Hi, I'm Shah Md. Farhan Ruhullah
 
-## Data Analyst | Machine Learning | Artificial Intelligence
+**Statistics | Data Analytics | Business Intelligence | Machine Learning**
 
-I am a Statistics graduate with a strong interest in **Data Analytics, Machine Learning, and Artificial Intelligence**. I work on developing data-driven solutions by combining statistical analysis, machine learning techniques, and visualization to solve real-world problems.
+I'm a Statistics student at Islamic University, Kushtia, Bangladesh. I've completed my academic requirements and am awaiting my final results.
 
-My interests include:
+I enjoy working with data: cleaning and exploring datasets, building dashboards, and using statistical and machine learning methods to understand real-world problems. My projects span business intelligence, operations analytics, energy, agriculture, and public health.
 
-- 📊 Data Analytics & Statistical Modeling
-- 🤖 Machine Learning & Explainable AI
-- 🌍 AI Applications for Climate and Sustainability
-- 🌱 Renewable Energy Analytics
-- 🔎 Research-oriented Data Solutions
+## Technical Skills
 
+| Area | Tools and Methods |
+|---|---|
+| **Programming & Databases** | Python, SQL, R, SQL Server, MySQL |
+| **Analytics & Statistics** | Pandas, NumPy, Data Cleaning, EDA, Hypothesis Testing |
+| **Business Intelligence** | Power BI, Tableau, DAX, ETL, Data Warehousing, Star-Schema Modeling |
+| **Machine Learning** | Scikit-learn, Random Forest, Regression, Classification, SHAP |
+| **Visualization & Development** | Matplotlib, Plotly, Streamlit, Excel, Jupyter Notebook, Git, GitHub |
 
----
+## Featured Projects
 
-# 🛠️ Technical Skills
+### [Enterprise Business Intelligence & Analytics](https://github.com/farhanruhullah/Enterprise-Business-Intelligence-Analytics)
 
-## Programming Languages
-- Python
-- SQL
-- R Programming
-- C Programming
+**SQL Server | Python | Power BI | ETL | DAX**
 
-## Data Analytics & Statistics
-- Statistical Analysis
-- Statistical Inference
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Interpretation
-- Hypothesis Testing
+Built a business intelligence system using the AdventureWorks2022 sample database. Designed a star-schema data warehouse and ETL workflow, then developed three Power BI dashboards for sales, customer, and product analysis. Used Python to explore business performance and generate additional insights.
 
-## Machine Learning & Artificial Intelligence
-- Machine Learning
-- Supervised Learning
-- Regression & Classification Models
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
-- Scikit-learn
+### [Supply Chain Risk Intelligence](https://github.com/farhanruhullah/Supply-Chain-Risk-Intelligence)
 
-## Explainable AI
-- SHAP (SHapley Additive exPlanations)
-- Model Interpretation
+**SQL Server | Power BI | DAX | Risk Analytics**
 
-## Data Visualization & Tools
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Power BI
+Developed an analytics platform using synthetic supply chain data. Created SQL analytical views and risk measures to assess supplier performance, shipment delays, and inventory conditions, with interactive Power BI dashboards for reporting.
 
-## Development Tools
-- Streamlit
-- Jupyter Notebook
-- Git & GitHub
+### [AI Renewable Energy Transition Intelligence](https://github.com/farhanruhullah/AI-Renewable-Energy-Transition-Intelligence)
 
+**Python | Scikit-learn | SHAP | Streamlit**
 
----
+Developed a Random Forest regression model to predict CO2 emissions per capita from energy-related indicators. Applied SHAP to interpret predictions and created a Streamlit application featuring an Energy Transition Readiness Index (ETRI) and scenario exploration.
 
-# 🚀 Featured Projects
+### [AI Climate Risk & Food Security](https://github.com/farhanruhullah/AI-Climate-Risk-Food-Security)
 
-## 🌍 AI Climate Risk & Food Security Intelligence Platform
+**Python | Machine Learning | SHAP | Streamlit**
 
-An AI-based platform focused on analyzing climate-related risks and their impact on food security using data analytics and machine learning approaches.
+Built a machine learning application to study climate-related factors and predict rice productivity. Included model interpretation and interactive visualizations to support exploration of agricultural data.
 
-### Key Focus:
-- Climate risk analysis
-- Food security insights
-- Data-driven assessment
-- Interactive visualization
-- AI applications for sustainable development
+## More Data Projects
 
-🔗 Repository:
-https://github.com/farhanruhullah/AI-Climate-Risk-Food-Security
+### [World Layoffs Data Analysis](https://github.com/farhanruhullah/World_Layoffs)
 
+**MySQL | Power BI | Data Cleaning**
 
----
+Cleaned and analyzed global technology layoffs data for 2020–2023 using SQL. Created Power BI dashboards to explore trends by company, industry, country, and time period.
 
-## 🌱 AI Renewable Energy Transition Intelligence
+### [COVID-19 Data Analysis](https://github.com/farhanruhullah/covid19-data-analysis)
 
-An AI-powered decision-support platform for analyzing renewable energy transition trends and sustainability indicators.
+**SQL Server | Tableau | Excel**
 
-### Key Focus:
-- Renewable energy analytics
-- CO₂ emission analysis
-- Explainable AI
-- Energy transition assessment
-- Scenario-based analysis
-- Interactive dashboard development
+Explored COVID-19 cases, deaths, and vaccination trends using SQL Server, including CTEs, temporary tables, and views. Built a Tableau dashboard to visualize country-level and global patterns.
 
-🔗 Repository:
-https://github.com/farhanruhullah/AI-Renewable-Energy-Transition-Intelligence
+## Education
 
+**Bachelor of Science in Statistics**
 
----
-
-# 🎓 Education
-
-**Bachelor of Science in Statistics**  
 Islamic University, Kushtia, Bangladesh
 
-Relevant areas:
-- Statistical Inference
-- Data Analysis
-- Machine Learning
-- Research Methodology
+Academic requirements completed; final result pending publication.
 
+## Currently Exploring
 
----
+I'm continuing to develop my skills in SQL, Python, data visualization, and machine learning through practical projects. I'm interested in internship and entry-level opportunities in Data Analytics, Business Intelligence, and Data Science.
 
-# 📚 Areas of Interest
+## Connect
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Explainable AI
-- Sustainable Development
-- Climate Intelligence
-- Renewable Energy Analytics
-
-
----
-
-# 🤝 Connect With Me
-
-LinkedIn:  
-https://www.linkedin.com/in/farhanruhullah/
-
-GitHub:  
-https://github.com/farhanruhullah/
+- [LinkedIn](https://www.linkedin.com/in/farhanruhullah/)
+- [GitHub](https://github.com/farhanruhullah/)
+- [Email](mailto:farhanruhullah@gmail.com)
